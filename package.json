@@ -1,0 +1,20 @@
+{
+  "name": "subscription-tracker",
+  "version": "1.0.0",
+  "description": "A Complete Backend project using Node Express MongoDb",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
