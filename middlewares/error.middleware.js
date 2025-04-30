@@ -51,4 +51,4 @@ try {
 }
 };
 
-module.exports = errorMiddleware;
+export default errorMiddleware
